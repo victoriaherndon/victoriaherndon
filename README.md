@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, World! I'm an undergrad student studying Computer Science at Florida State University (Go Noles!).<br>I am passionate about using my creativity for Software Engineering and here to share my journey with you.
+Hello, World! I'm an undergrad student studying Computer Science at Florida State University (Go Noles!).<br>I am passionate about using my creativity in software engineering and here to share my journey with you.
 
 
 ## 🌐 Socials:
